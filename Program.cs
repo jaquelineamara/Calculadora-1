@@ -38,7 +38,7 @@ case "8":
 CalcularMédiaAritmética();
 break;
 case "9":
-Console.WriteLine("Projeto de encerramento do 1º módulo feito em C#\n user: camilalocatelli");
+Console.WriteLine("Projeto de encerramento do 1º módulo feito em C#\n user: Jaqueline Amara );
 break;
 case "0":
 Console.WriteLine("\nObrigada por utilizar meu programa :)");
